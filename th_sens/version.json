@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "url": "https://drive.google.com/uc?export=download&id=1SKnxyVAECRah60kyWDKSwPelj8Kwwbl1",
+  "checksum": "d41d8cd98f00b204e9800998ecf8427e", // MD5-хэш прошивки (опционально)
+  "description": "Fixed bugs and improved stability.", // Описание обновления (опционально)
+  "size": 512000 // Размер прошивки в байтах (опционально)
+}
